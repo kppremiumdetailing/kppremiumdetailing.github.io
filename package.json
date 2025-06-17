@@ -1,6 +1,6 @@
 {
-  "name": "kp-premium-detailing",
-  "homepage": "https://nickyjhong.github.io/kp-premium-detailing",
+  "name": "kppremiumdetailing",
+  "homepage": "https://kppremiumdetailing.github.io/kppremiumdetailing",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
