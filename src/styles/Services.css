@@ -1,0 +1,16 @@
+.services {
+  padding: 60px 20px;
+  /* background: white; */
+}
+.service-list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.service-card {
+  background: #f1f1f1;
+  padding: 20px;
+  border-radius: 8px;
+  width: 250px;
+}

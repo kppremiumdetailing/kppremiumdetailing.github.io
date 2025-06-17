@@ -1,0 +1,11 @@
+.hero {
+  text-align: center;
+  padding: 200px 20px;
+  background: url('https://static.vecteezy.com/system/resources/previews/023/977/557/non_2x/front-view-dark-silhouette-of-a-modern-sport-black-car-isolated-on-black-background-ai-generated-free-photo.jpg') no-repeat center/cover;
+  color: white;
+}
+
+.hero-name {
+  font-size: 50px;
+  text-shadow: 2px 2px 8px #696363;
+}
