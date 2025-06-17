@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kppremiumdetailing.github.io/static/css/main.43c896b2.css",
-    "main.js": "/kppremiumdetailing.github.io/static/js/main.199f691c.js",
-    "index.html": "/kppremiumdetailing.github.io/index.html",
-    "main.43c896b2.css.map": "/kppremiumdetailing.github.io/static/css/main.43c896b2.css.map",
-    "main.199f691c.js.map": "/kppremiumdetailing.github.io/static/js/main.199f691c.js.map"
+    "main.css": "/static/css/main.43c896b2.css",
+    "main.js": "/static/js/main.199f691c.js",
+    "index.html": "/index.html",
+    "main.43c896b2.css.map": "/static/css/main.43c896b2.css.map",
+    "main.199f691c.js.map": "/static/js/main.199f691c.js.map"
   },
   "entrypoints": [
     "static/css/main.43c896b2.css",
