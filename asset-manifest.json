@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kppremiumdetailing/static/css/main.43c896b2.css",
+    "main.js": "/kppremiumdetailing/static/js/main.199f691c.js",
+    "index.html": "/kppremiumdetailing/index.html",
+    "main.43c896b2.css.map": "/kppremiumdetailing/static/css/main.43c896b2.css.map",
+    "main.199f691c.js.map": "/kppremiumdetailing/static/js/main.199f691c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43c896b2.css",
+    "static/js/main.199f691c.js"
+  ]
+}
