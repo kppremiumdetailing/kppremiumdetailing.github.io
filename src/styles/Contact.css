@@ -22,3 +22,13 @@ button {
   border: none;
   border-radius: 5px;
 }
+
+.contact-link {
+  color: white;
+  text-decoration: none;
+}
+
+.contact-link:hover {
+  text-decoration: underline;
+  color: #cccccc;
+}

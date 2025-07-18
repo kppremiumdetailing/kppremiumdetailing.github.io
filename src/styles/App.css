@@ -7,7 +7,7 @@ body {
   margin: 0;
   font-family: 'Arial', sans-serif;
   background: #1a1919;
-  color: #bfb6b6;
+  color: white;
   scroll-behavior: smooth;
   display: flex;
   flex-direction: column;
