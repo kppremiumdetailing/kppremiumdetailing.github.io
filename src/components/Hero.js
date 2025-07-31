@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import '../styles/Hero.css';
 
 function Hero() {
@@ -7,7 +8,7 @@ function Hero() {
       <h1 className="hero-name">KP Premium Detailing</h1>
       <h3>Queens and Long Island</h3>
       <p></p>
-      <a href="contact" className="btn">Contact Us</a>
+      <Link to="/contact" className="btn">Contact Us</Link>
     </section>
   );
 }
